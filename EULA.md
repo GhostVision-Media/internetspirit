@@ -2,9 +2,7 @@
 
 ## End-User License Agreement (EULA) + Strict Source Code License
 
-<p align="center">
-  <img src="assets/readme/hardy-software-logo.png" alt="Michael Hardy Software Logo" width="220">
-</p>
+
 
 <p align="center">
   <img src="assets/readme/hardy-software-banner.png" alt="Michael Hardy Software" width="760">
@@ -436,7 +434,9 @@ Permission to view, compile, modify, or redistribute specifically licensed sourc
 unless those assets are expressly and separately licensed.
 
 ---
-
+<p align="center">
+  <img src="assets/readme/hardy-software-logo.png" alt="Michael Hardy Software Logo" width="220">
+</p>
 **END OF LICENSE**
 ::: 
 
