@@ -3,7 +3,7 @@
 ## End-User License Agreement (EULA) + Strict Source Code License
 
 <p align="center">
-  <img src="assets/hardy-software-logo.png" alt="Michael Hardy Software Logo" width="220">
+  <img src="assets/readme/hardy-software-logo.png" alt="Michael Hardy Software Logo" width="220">
 </p>
 
 <p align="center">
