@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hardy-software-banner.png" alt="Michael Hardy Software" width="760">
+  <img src="assets/readme/hardy-software-banner.png" alt="Michael Hardy Software" width="760">
 </p>
 
 <p align="center">
